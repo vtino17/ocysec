@@ -1,0 +1,25 @@
+# Added by code-review-graph
+.code-review-graph/
+node_modules/
+.venv/
+.venv-1/
+venv/
+venv311/
+dist/
+build/
+.next/
+.turbo/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pt
+target/
+.env
+.env.*
+!.env.example
+*.bak
+nul
+*.asar
+.playwright-mcp/
+.orchestrator-e2e-runtime/
+.hermes/
